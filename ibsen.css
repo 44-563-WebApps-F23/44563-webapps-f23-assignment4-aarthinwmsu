@@ -16,3 +16,19 @@ p.direction:hover{
 h5.name{
     color: blueviolet;
 }
+
+table,th,td{
+    border: 1px solid;
+    width: auto;
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+    /* margin: 10px; */
+}
+th{
+    color:blueviolet;
+    background-color: beige;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
