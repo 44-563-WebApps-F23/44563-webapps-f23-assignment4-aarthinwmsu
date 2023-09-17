@@ -1,0 +1,18 @@
+p.speech {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+    color: black;
+}
+p.direction{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: beige;
+}
+p.direction:hover{
+    color: darkgreen;
+    background-color: azure;
+}
+h5.name{
+    color: blueviolet;
+}
