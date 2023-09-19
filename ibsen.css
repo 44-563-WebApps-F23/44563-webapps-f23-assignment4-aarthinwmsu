@@ -37,3 +37,7 @@ h5:hover{
     border: dotted 2px azure;
     text-shadow: 15px 15px 20px grey;
 }
+nav {
+    display: inline;
+    color: beige;
+}
