@@ -41,3 +41,24 @@ nav {
     display: inline;
     color: beige;
 }
+
+ul.horizontal {
+    padding: 0px;
+    margin: 20px;
+}
+
+ul.horizontal li{
+    float: left;
+    color: azure;
+    background-color: aquamarine;
+}
+
+ul.horizontal a{
+    display: block;
+    padding: 10px;
+}
+
+ul.horizontal a:hover{
+    color: beige;
+    background-color: blueviolet;
+}
